@@ -15,8 +15,8 @@ sidebar:
     email: lidevlin95@gmail.com
     phone: 07910060829
     website: cv.lidevlin.com #do not add http://
-    linkedin: https://www.linkedin.com/in/liam-devlin-302902101/
-    github: sharu725
+    linkedin: Liam Devlin
+    github: arctheowl
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -29,14 +29,8 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Chess
         link:
 
       - item: Snowboarding
@@ -168,23 +162,21 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python 
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Golang
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Networking
         level: 95%
+        
+      - name: Javascript & React
+        level: 98%
 
-      - name: Ruby on Rails
+      - name: Linux
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
