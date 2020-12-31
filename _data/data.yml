@@ -57,11 +57,10 @@ education:
         about the topics I am passionate about. 
         
         Below are some of my favourite modules from this degree:
-        
-          - Multi-Vendor Unix Systems
-          - AI & Machine Learning
-          - Network Design and Troubleshooting
-          - Big Data & Analytics
+        * Multi-Vendor Unix Systems
+        * AI & Machine Learning
+        * Network Design and Troubleshooting
+        * Big Data & Analytics
           
 experiences:
     - role: Lead Developer
