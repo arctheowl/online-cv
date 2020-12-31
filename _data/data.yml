@@ -54,15 +54,14 @@ education:
         While working for Cisco as a Network consulting engineer I also studied 
         for a degree that I was able to achieve in just over 3 years.
         This degree had some great modules that taught me so much 
-        about the topics I am passionate about. 
-        
+        about the topics I am passionate about. <br/> <br/> 
         Below are some of my favourite modules from this degree:
-        
-        - Multi-Vendor Unix Systems
-        - AI & Machine Learning
-        - Network Design and Troubleshooting
-        - Big Data & Analytics
-          
+
+        - Multi-Vendor Unix Systems<br/> 
+        - AI & Machine Learning<br/> 
+        - Network Design and Troubleshooting<br/> 
+        - Big Data & Analytics<br/> 
+
 experiences:
     - role: Lead Developer
       time: 2015 - Present
