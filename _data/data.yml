@@ -133,9 +133,7 @@ projects:
 publications:
     title: Training Completed
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Below is a list of training workshops I have attended throughout my career:
     papers:
       - title: "Advanced Python"
         link: "#"
@@ -168,9 +166,6 @@ skills:
       - name: Python 
         level: 95%
 
-      - name: Golang
-        level: 90%
-        
       - name: Linux
         level: 85%
 
