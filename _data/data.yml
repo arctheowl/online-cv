@@ -20,7 +20,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -31,7 +31,7 @@ sidebar:
 
     interests:
       - item: Chess
-        link:
+        link: https://www.chess.com/member/arctheowl
 
       - item: Snowboarding
         link:
@@ -53,13 +53,17 @@ education:
       university: University of Roehampton
       time: 2016-2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        While working for Cisco as a Network consulting engineer I also studied 
+        for a degree that I was able to achieve in just over 3 years.
+        This degree had some great modules that taught me so much 
+        about the topics I am passionate about. 
+        
+        Below are some of my favourite modules from this degree:
+        
+          - Multi-Vendor Unix Systems
+          - AI & Machine Learning
+          - Network Design and Troubleshooting
+          - Big Data & Analytics
           
 experiences:
     - role: Lead Developer
@@ -77,9 +81,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
+    - role: Network Consulting Engineer
       time: 2014 - 2015
-      company: Google, London
+      company: Cisco, Reading
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -88,16 +92,19 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Cisco Apprentice
+      time: 2015 - 2018
+      company: Cisco, Reading
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
+        The first positions I was able to secure out of education
+        was an apprenticeship with Cisco systems. In this role I was
+        able to transition to many areas of the business going from 
+        sales to engineering. This is were I grew a passion for engineering.
+        
+        Below are some of the highlights of my time as an apprentice:
+        
+          - Achieving CCNA & CCNP
+          - 
           - Bullet point
 projects:
     title: Projects
@@ -153,19 +160,21 @@ skills:
 
     toolset:
       - name: Python 
-        level: 98%
+        level: 95%
 
       - name: Golang
-        level: 98%
+        level: 80%
+        
+      - name: Linux
+        level: 85%
 
       - name: Networking
         level: 95%
         
       - name: Javascript & React
-        level: 98%
+        level: 40%
 
-      - name: Linux
-        level: 85%
+      
 
 
 footer: >
