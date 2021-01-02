@@ -40,12 +40,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: | 
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Since leaving education I have continued to be fascinated by technology 
+      and programming. This passion has lead me to pursue some interesting projects (which
+      I hope to showcase below) and work with many great people. As I continue to grow as
+      an engineer I am always looking for areas to expand my knowledge. Currently I 
+      am really enjoying programming within Golang as I believe it is a very flexible 
+      language that can very easily translate into business needs quickly. You can go 
+      from needing a new webserver to having one up and running within a few minutes. 
+      
 education:
     - degree: BSc Digital & Technology Solutions
       university: University of Roehampton
@@ -179,4 +181,4 @@ skills:
 
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
