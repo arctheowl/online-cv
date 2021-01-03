@@ -100,9 +100,9 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: GoPoker
+        link: "https://github.com/arctheowl/GoDeck"
+        tagline: "Current Working Project that I hope to showcase soon that will allow players to train up ML bots to play poker"
 
       - title: GoDeck
         link: "https://github.com/arctheowl/GoDeck"
@@ -115,10 +115,6 @@ projects:
       - title: Atom
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Training Completed
