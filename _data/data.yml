@@ -101,7 +101,7 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: GoPoker
-        link: "https://github.com/arctheowl/GoDeck"
+        link: "https://github.com/arctheowl/GoPokerEngine"
         tagline: "Current Working Project that I hope to showcase soon that will allow players to train up ML bots to play poker"
 
       - title: GoDeck
