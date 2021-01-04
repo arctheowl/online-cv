@@ -35,6 +35,9 @@ sidebar:
 
       - item: Reading
         link: https://www.goodreads.com/user/show/127448795-liam
+          
+      - item: Rugby
+        link: "#"
 
 
 career-profile:
@@ -71,11 +74,8 @@ experiences:
       time: 2018 - Present
       company: Cisco, Reading
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        For the past 3 years I have been employeed as a network consulting engineer. In this role I have
+        had the opportunity to  
           - Achieving a 2:1 in my degree
           - Attending various training courses
           
@@ -158,6 +158,9 @@ skills:
       - name: Networking
         level: 95%
         
+      - name: Emacs Lisp
+        level: 50%
+
       - name: Javascript & React
         level: 40%
 
