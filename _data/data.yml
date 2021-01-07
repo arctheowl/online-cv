@@ -136,13 +136,13 @@ publications:
 
       - title: "CCNP Bootcamp"
         link: "#"
-        authors: Edgar T. Irons
+        authors: Cisco Training Team
         conference: "Comm. ACM 4 (1961), 51–55"
         
       - title: "Business Critical Insights Bootcamp"
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Cisco Training Team
+        conference: "BCI was a Cisco technology that had a focus on Big Data and Splunk that we are able to use to find business relevant information within a large data set. This allows us to create relevant dashboards that will allow customers to act faster on business critical areas of their network"
         
 
 skills:
