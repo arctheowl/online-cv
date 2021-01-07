@@ -76,6 +76,8 @@ experiences:
       details: |
         For the past 3 years I have been employeed as a network consulting engineer. In this role I have
         had the opportunity to work on many interesting projects and be apart of a great team. 
+          - Deploying code that I wrote on 19,000+ devices
+          - Worked within the public sector and financial institutions
           - Achieving a 2:1 in my degree
           - Attending various training courses
           
@@ -97,8 +99,9 @@ projects:
     title: Projects
     intro: >
       You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      section. The majority of my work is restricted and can not be displayed
+      here and these projects are created as a showcase of some of my ability
+      but not he limit of it.
     assignments:
       - title: GoPoker
         link: "https://github.com/arctheowl/GoPokerEngine"
@@ -122,9 +125,9 @@ publications:
       Below is a list of training workshops I have attended throughout my career:
     papers:
       - title: "Advanced Python"
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        link: "https://lerner.co.il/courses/advanced-python/"
+        authors: Reuven M. Lerner
+        conference: "Besides deep discussions of functional and object-oriented techniques, the course discusses advanced data structures, inner functions, functional programming techniques, a deep dive into Python’s object system, iterators, generators, and decorators, testing, and multiprocessing (processes and threads). The course includes a large number of exercises for hands-on practice, as well as live demos and the opportunity for questions."
 
       - title: "Docker Bootcamp"
         link: "#"
