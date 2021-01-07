@@ -129,20 +129,20 @@ publications:
         authors: Reuven M. Lerner
         conference: "Besides deep discussions of functional and object-oriented techniques, the course discusses advanced data structures, inner functions, functional programming techniques, a deep dive into Python’s object system, iterators, generators, and decorators, testing, and multiprocessing (processes and threads). The course includes a large number of exercises for hands-on practice, as well as live demos and the opportunity for questions."
 
-      - title: "Docker Bootcamp"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: "CCNP Bootcamp"
+      - title: "Kubernetes & Docker Container Fundamentals"
         link: "#"
         authors: Cisco Training Team
-        conference: "Comm. ACM 4 (1961), 51–55"
+        conference: "3-day workshop to understand the importance of conatiners along with core fundamental concepts. We will go through docker containers and their concepts including, networking, volumes, hubs and more. We will understand the Kubernetes as orchestration engine for deploying docker containers. We will see how Kubernetes is used in production by creating, deploy and running an application from scratch."
+
+      - title: "CCNP Bootcamp"
+        link: "https://www.cisco.com/c/en/us/training-events/training-certifications/training/training-services/courses/implementing-and-operating-cisco-enterprise-network-core-technologies-encor.html"
+        authors: Cisco Training Team
+        conference: "he Implementing and Operating Cisco Enterprise Network Core Technologies (ENCOR) v1.0 course gives you the knowledge and skills needed to configure, troubleshoot, and manage enterprise wired and wireless networks. You’ll also learn to implement security principles within an enterprise network and how to overlay network design by using solutions such as SD-Access and SD-WAN."
         
       - title: "Business Critical Insights Bootcamp"
         link: "#"
         authors: Cisco Training Team
-        conference: "BCI was a Cisco technology that had a focus on Big Data and Splunk that we are able to use to find business relevant information within a large data set. This allows us to create relevant dashboards that will allow customers to act faster on business critical areas of their network"
+        conference: "BCI was a Cisco technology that had a focus on Big Data and Splunk that we are able to use to find business relevant information within a large data set. This allows us to create relevant dashboards that will allow customers to act faster on business critical areas of their network."
         
 
 skills:
