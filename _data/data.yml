@@ -50,7 +50,7 @@ career-profile:
       am really enjoying programming within Golang as I believe it is a very flexible 
       language that can very easily translate into business needs quickly. You can go 
       from needing a new webserver to having one up and running within a few minutes. My main
-      ambition is to develop as a software engineer and begin to lead these projects from the 
+      ambition is to trainsition into a software engineer role and begin to lead these projects from the 
       begining to the end.
       
 education:
@@ -74,9 +74,14 @@ experiences:
       time: 2018 - Present
       company: Cisco, Reading
       details: |
-        For the past 3 years I have been employeed as a network consulting engineer. In this role I have
-        had the opportunity to work on many interesting projects and be apart of a great team. 
+        For the past 3 years I have been employeed as a network consulting engineer within Cisco. In this role I have
+        had the opportunity to work on many interesting projects and be part of a great team. While in this role I became a subject
+        matter expert for the BCI platform that Cisco offers allowing me to work with many different customers in 
+        achieving a relevant dashboard that will be used daily to give them a better insight into their business critical
+        elements.
+        
           - Deploying code that I wrote on 19,000+ devices
+          - Becoming a subject matter expert for BCI within the UK
           - Worked within the public sector and financial institutions
           - Achieving a 2:1 in my degree
           - Attending various training courses
@@ -120,7 +125,7 @@ projects:
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
 publications:
-    title: Training Completed
+    title: Recent Training Completed
     intro: |
       Below is a list of training workshops I have attended throughout my career:
     papers:
