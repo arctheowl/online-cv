@@ -114,16 +114,13 @@ projects:
 
       - title: GoDeck
         link: "https://github.com/arctheowl/GoDeck"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A simple golang module that operates similar to a deck of cards, with 100% test coverage can be implemented with a few lines of code."
 
       - title: Building A Flight Simulator
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "While in Air Cadets I was given the opertunity to lead a project that built a fully operational flight simulator. This included the hardware setup aswell as the software integration and making sure that everything worked smoothly."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
+      
 publications:
     title: Recent Training Completed
     intro: |
